@@ -1,0 +1,8 @@
+Usuario: teste@teste.com Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Sun May 24 11:47:40 BRT 2020
+
+Usuario: admin Realizou Acessou : Sun May 24 11:47:59 BRT 2020
+
+Usuario: admin Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Sun May 24 11:49:04 BRT 2020
+
+Usuario: teste@teste.com Não existe no sistema, realizou acesso em: Sun May 24 11:52:23 BRT 2020
+
