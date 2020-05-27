@@ -1,0 +1,96 @@
+Usuario: teste@teste.com Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Sun May 24 11:47:40 BRT 2020
+
+Usuario: admin Realizou Acessou : Sun May 24 11:47:59 BRT 2020
+
+Usuario: admin Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Sun May 24 11:49:04 BRT 2020
+
+Usuario: teste@teste.com Não existe no sistema, realizou acesso em: Sun May 24 11:52:23 BRT 2020
+
+Usuario: teste@teste.com Não existe no sistema, realizou acesso em: Sun May 24 12:46:30 BRT 2020
+
+Usuario: USJT Não existe no sistema, realizou acesso em: Sun May 24 12:46:50 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 12:47:13 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 15:27:13 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 15:28:07 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:08:19 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:15:24 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:17:59 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:18:21 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:19:00 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:19:41 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:20:19 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Sun May 24 16:27:14 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 10:32:50 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 13:26:14 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 13:29:35 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:47:41 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:52:09 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:53:38 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:54:40 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:55:20 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:59:17 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 14:59:38 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:00:26 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:00:51 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:01:35 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:02:30 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:08:37 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:12:28 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:14:57 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 15:16:43 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:00:44 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:01:38 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:02:20 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:03:45 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:06:20 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 17:06:40 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 19:16:56 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 19:18:10 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 19:21:45 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 19:49:19 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 19:54:21 BRT 2020
+
+Usuario: pratprog Existe no Sistema, porém a senha está incorreta, Realizou acesso em : Mon May 25 20:21:39 BRT 2020
+
+Usuario: pratprog Realizou Acessou : Mon May 25 20:27:54 BRT 2020
+
